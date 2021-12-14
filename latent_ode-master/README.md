@@ -1,5 +1,5 @@
-# Sparse Medical Time Series Modeling with Neural
-Differential Equations
+# Sparse Medical Time Series Modeling with Neural Differential Equations
+
 
 # Code built upon the work of Julia Rubanova
 

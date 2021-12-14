@@ -5,6 +5,8 @@
 
 https://github.com/YuliaRubanova/latent_ode
 
+Code for the experiments of "Latent ODEs for Irregularly-Sampled Time Series" was left in this project so one may compare results in both experiments. 
+
 ## Prerequisites
 
 Install `torchdiffeq` from https://github.com/rtqichen/torchdiffeq.
